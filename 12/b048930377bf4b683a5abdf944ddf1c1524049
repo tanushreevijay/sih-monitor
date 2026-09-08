@@ -1,0 +1,24 @@
+.gitignore
+  s_be96fbaedafd1c::t_deb315953114ff 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "12b048930377bf4b683a5abdf944ddf1c1524049",
+  "prompts": {},
+  "humans": {
+    "h_ac42636a4acad2": {
+      "author": "tanushreevijayasanan <tanushree@quest1.io>"
+    }
+  },
+  "sessions": {
+    "s_be96fbaedafd1c": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "2876152c-d7b9-4eed-b27b-c2288951e2ef",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "tanushreevijayasanan <tanushree@quest1.io>"
+    }
+  }
+}
